@@ -1,0 +1,16 @@
+{
+  "name": "semantic-release-sample",
+  "version": "0.0.1",
+  "description": "Semantic release sample",
+  "author": "Taiger",
+  "private": true,
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/khunlingtan-taiger/semantic-release-sample.git"
+  },
+  "devDependencies": {
+    "@semantic-release/changelog": "^3.0.6",
+    "@semantic-release/git": "^8.0.0",
+    "semantic-release": "^16.0.2"
+  }
+}
