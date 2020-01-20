@@ -1,1 +1,1 @@
-bump minor version
+bump bump minor version
