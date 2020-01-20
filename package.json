@@ -6,7 +6,7 @@
   "private": true,
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/khunlingtan-taiger/semantic-release-sample.git"
+    "url": "git+https://github.com/yogakurniawan/semantic-release-sample.git"
   },
   "devDependencies": {
     "@semantic-release/changelog": "^3.0.6",
